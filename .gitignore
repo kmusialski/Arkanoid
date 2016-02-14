@@ -1,0 +1,39 @@
+#################  
+## openFrameworks  
+#################  
+
+
+*.~bpr
+*.obj
+*.res
+*.tds
+*.~dfm
+
+[Bb]in/*  
+![Bb]in/data/  
+[Bb]uild/  
+[Oo]bj/  
+*.o  
+[Dd]ebug*/  
+[Rr]elease*/  
+*.mode*  
+*.app/  
+*.pyc  
+*.log  
+
+#################  
+## Borland 
+#################  
+libstdc++-6.dll
+*.depend  
+*.layout  
+
+############  
+## Windows  
+############  
+
+# Windows image file caches  
+Thumbs.db  
+
+# Folder config file  
+Desktop.ini
